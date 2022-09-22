@@ -1,4 +1,4 @@
-package Homeworkone;
+package Homework_one;
 public class One_four {
     public static void main(String[] args){
         float res = 1f;
